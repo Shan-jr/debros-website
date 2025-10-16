@@ -13,8 +13,7 @@ export default function Hero() {
         transition={{ duration: 1, ease: "easeOut" }}
         className="max-w-4xl mb-6 text-4xl font-extrabold leading-tight sm:text-5xl md:text-6xl lg:text-7xl"
       >
-        We Design, Build & Deliver Exceptional Exhibition Stands- Jins Jose
-      </motion.h1>
+        We Design, Build & Deliver Exceptional Exhibition Stands </motion.h1>
 
       <motion.p
         initial={{ opacity: 0, y: 30 }}
